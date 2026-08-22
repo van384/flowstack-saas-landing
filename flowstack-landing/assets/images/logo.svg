@@ -1,0 +1,8 @@
+<svg width="140" height="32" viewBox="0 0 140 32" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <rect x="0" y="14" width="22" height="10" rx="3" fill="#4338FF" opacity="0.35"/>
+    <rect x="4" y="7" width="22" height="10" rx="3" fill="#4338FF" opacity="0.65"/>
+    <rect x="8" y="0" width="22" height="10" rx="3" fill="#4338FF"/>
+  </g>
+  <text x="40" y="22" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="20" fill="#14141A">FlowStack</text>
+</svg>
